@@ -1,0 +1,40 @@
+/* text colors */
+
+h2,h3,h4,h5 {
+  color: #141414 ;
+}
+
+
+/* text placeholders */
+
+.valuePlaceholder {
+  color: blue;
+}
+
+.yearPlaceholder {
+  color: '';
+}
+
+.priceType {
+
+  color: red;
+}
+
+.moreOrLess {
+  color: red;
+}
+
+.upOrDown {
+  color: red;
+}
+
+.productBasket {
+  color: blue;
+}
+
+/* padding */
+
+.l-box {
+  padding: 3em;
+  padding-bottom: 0.5em;
+}
