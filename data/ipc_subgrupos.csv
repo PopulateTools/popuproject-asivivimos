@@ -1,0 +1,676 @@
+year,code,product,value
+2002,00,Índice general,76.261
+2002,011,Alimentos,72.657
+2002,012,Bebidas no alcohólicas,76.278
+2002,021,Bebidas alcohólicas,78.959
+2002,022,Tabaco,42.789
+2002,031,Vestido,92.749
+2002,032,Calzado y sus reparaciones,84.892
+2002,041,Alquiler de vivienda,74.568
+2002,043,Conservación y reparación de la vivienda,72.276
+2002,044,Suministro de agua y otros servicios relacionados con la vivienda,63.296
+2002,045,"Electricidad, gas y otros combustibles",64.183
+2002,051,"Muebles y accesorios, alfombras y otros revestimientos de suelos",76.617
+2002,052,Artículos textiles para el hogar,89.821
+2002,053,Aparatos domésticos,113.792
+2002,054,"Cristalería, vajilla y utensilios para el hogar",77.366
+2002,055,Herramientas y equipos para el hogar y el jardín,76.939
+2002,056,Bienes y servicios para el mantenimiento corriente del hogar,79.456
+2002,061,"Productos, aparatos y equipos médicos",104.033
+2002,062,Servicios ambulatorios,76.029
+2002,063,Servicios hospitalarios,83.489
+2002,071,Adquisición de vehículos,88.433
+2002,072,Utilización de vehículos personales,67.076
+2002,073,Servicios de transporte,58.279
+2002,081,Servicios postales,61.125
+2002,082,Equipos de telefonía y fax, 
+2002,083,Servicios de telefonía y fax, 
+2002,091,"Equipos audiovisuales, fotográficos y de procesamiento de información",388.545
+2002,092,Otros grandes bienes duraderos para ocio y cultura, 
+2002,093,"Otros artículos y equipos para ocio, jardinería y animales domésticos",97.814
+2002,094,"Servicios recreativos, deportivos y culturales",74.477
+2002,095,"Prensa, libros y artículos de papelería",75.459
+2002,096,Paquetes turísticos,77.433
+2002,101,Enseñanza infantil y primaria, 
+2002,102,Enseñanza secundaria, 
+2002,103,Enseñanza postsecundaria no superior, 
+2002,104,Enseñanza superior,48.971
+2002,105,Enseñanza no definida por nivel,74.014
+2002,111,Restauración y comedores,70.568
+2002,112,Servicios de alojamiento,76.253
+2002,121,Cuidado personal,80.518
+2002,123,Efectos personales n.c.o.p.,59.441
+2002,124,Protección social, 
+2002,125,Seguros,65.221
+2002,126,Servicios financieros n.c.o.p.,53.715
+2002,127,Otros servicios n.c.o.p.,70.031
+2003,00,Índice general,78.579
+2003,011,Alimentos,75.648
+2003,012,Bebidas no alcohólicas,79.101
+2003,021,Bebidas alcohólicas,80.656
+2003,022,Tabaco,44.421
+2003,031,Vestido,96.297
+2003,032,Calzado y sus reparaciones,87.983
+2003,041,Alquiler de vivienda,77.748
+2003,043,Conservación y reparación de la vivienda,75.355
+2003,044,Suministro de agua y otros servicios relacionados con la vivienda,65.317
+2003,045,"Electricidad, gas y otros combustibles",65.041
+2003,051,"Muebles y accesorios, alfombras y otros revestimientos de suelos",78.747
+2003,052,Artículos textiles para el hogar,91.223
+2003,053,Aparatos domésticos,112.879
+2003,054,"Cristalería, vajilla y utensilios para el hogar",78.796
+2003,055,Herramientas y equipos para el hogar y el jardín,78.977
+2003,056,Bienes y servicios para el mantenimiento corriente del hogar,81.583
+2003,061,"Productos, aparatos y equipos médicos",105.192
+2003,062,Servicios ambulatorios,78.488
+2003,063,Servicios hospitalarios,87.86
+2003,071,Adquisición de vehículos,89.917
+2003,072,Utilización de vehículos personales,68.564
+2003,073,Servicios de transporte,60.443
+2003,081,Servicios postales,63.143
+2003,082,Equipos de telefonía y fax, 
+2003,083,Servicios de telefonía y fax, 
+2003,091,"Equipos audiovisuales, fotográficos y de procesamiento de información",351.428
+2003,092,Otros grandes bienes duraderos para ocio y cultura, 
+2003,093,"Otros artículos y equipos para ocio, jardinería y animales domésticos",99.505
+2003,094,"Servicios recreativos, deportivos y culturales",76.771
+2003,095,"Prensa, libros y artículos de papelería",78.17
+2003,096,Paquetes turísticos,79.841
+2003,101,Enseñanza infantil y primaria, 
+2003,102,Enseñanza secundaria, 
+2003,103,Enseñanza postsecundaria no superior, 
+2003,104,Enseñanza superior,51.614
+2003,105,Enseñanza no definida por nivel,76.8
+2003,111,Restauración y comedores,73.634
+2003,112,Servicios de alojamiento,78.822
+2003,121,Cuidado personal,82.824
+2003,123,Efectos personales n.c.o.p.,60.521
+2003,124,Protección social, 
+2003,125,Seguros,67.683
+2003,126,Servicios financieros n.c.o.p.,59.343
+2003,127,Otros servicios n.c.o.p.,71.634
+2004,00,Índice general,80.967
+2004,011,Alimentos,78.673
+2004,012,Bebidas no alcohólicas,80.419
+2004,021,Bebidas alcohólicas,81.585
+2004,022,Tabaco,46.901
+2004,031,Vestido,98.01
+2004,032,Calzado y sus reparaciones,89.717
+2004,041,Alquiler de vivienda,80.936
+2004,043,Conservación y reparación de la vivienda,78.56
+2004,044,Suministro de agua y otros servicios relacionados con la vivienda,68.489
+2004,045,"Electricidad, gas y otros combustibles",66.281
+2004,051,"Muebles y accesorios, alfombras y otros revestimientos de suelos",81.038
+2004,052,Artículos textiles para el hogar,93.359
+2004,053,Aparatos domésticos,111.575
+2004,054,"Cristalería, vajilla y utensilios para el hogar",80.107
+2004,055,Herramientas y equipos para el hogar y el jardín,80.766
+2004,056,Bienes y servicios para el mantenimiento corriente del hogar,82.76
+2004,061,"Productos, aparatos y equipos médicos",103.574
+2004,062,Servicios ambulatorios,80.615
+2004,063,Servicios hospitalarios,91.871
+2004,071,Adquisición de vehículos,91.32
+2004,072,Utilización de vehículos personales,73.123
+2004,073,Servicios de transporte,63.799
+2004,081,Servicios postales,65.119
+2004,082,Equipos de telefonía y fax, 
+2004,083,Servicios de telefonía y fax, 
+2004,091,"Equipos audiovisuales, fotográficos y de procesamiento de información",319.5
+2004,092,Otros grandes bienes duraderos para ocio y cultura, 
+2004,093,"Otros artículos y equipos para ocio, jardinería y animales domésticos",99.618
+2004,094,"Servicios recreativos, deportivos y culturales",79.107
+2004,095,"Prensa, libros y artículos de papelería",80.689
+2004,096,Paquetes turísticos,80.928
+2004,101,Enseñanza infantil y primaria, 
+2004,102,Enseñanza secundaria, 
+2004,103,Enseñanza postsecundaria no superior, 
+2004,104,Enseñanza superior,54.143
+2004,105,Enseñanza no definida por nivel,79.266
+2004,111,Restauración y comedores,76.66
+2004,112,Servicios de alojamiento,81.185
+2004,121,Cuidado personal,84.61
+2004,123,Efectos personales n.c.o.p.,61.502
+2004,124,Protección social, 
+2004,125,Seguros,70.122
+2004,126,Servicios financieros n.c.o.p.,70.524
+2004,127,Otros servicios n.c.o.p.,73.282
+2005,00,Índice general,83.694
+2005,011,Alimentos,81.237
+2005,012,Bebidas no alcohólicas,81.56
+2005,021,Bebidas alcohólicas,82.471
+2005,022,Tabaco,50.005
+2005,031,Vestido,99.135
+2005,032,Calzado y sus reparaciones,91.698
+2005,041,Alquiler de vivienda,84.395
+2005,043,Conservación y reparación de la vivienda,82.07
+2005,044,Suministro de agua y otros servicios relacionados con la vivienda,72.062
+2005,045,"Electricidad, gas y otros combustibles",70.428
+2005,051,"Muebles y accesorios, alfombras y otros revestimientos de suelos",83.906
+2005,052,Artículos textiles para el hogar,95.916
+2005,053,Aparatos domésticos,111.018
+2005,054,"Cristalería, vajilla y utensilios para el hogar",81.461
+2005,055,Herramientas y equipos para el hogar y el jardín,82.713
+2005,056,Bienes y servicios para el mantenimiento corriente del hogar,84.421
+2005,061,"Productos, aparatos y equipos médicos",102.421
+2005,062,Servicios ambulatorios,83.244
+2005,063,Servicios hospitalarios,96.3
+2005,071,Adquisición de vehículos,92.964
+2005,072,Utilización de vehículos personales,80.686
+2005,073,Servicios de transporte,67.741
+2005,081,Servicios postales,66.876
+2005,082,Equipos de telefonía y fax, 
+2005,083,Servicios de telefonía y fax, 
+2005,091,"Equipos audiovisuales, fotográficos y de procesamiento de información",290.859
+2005,092,Otros grandes bienes duraderos para ocio y cultura, 
+2005,093,"Otros artículos y equipos para ocio, jardinería y animales domésticos",99.549
+2005,094,"Servicios recreativos, deportivos y culturales",81.243
+2005,095,"Prensa, libros y artículos de papelería",82.138
+2005,096,Paquetes turísticos,82.72
+2005,101,Enseñanza infantil y primaria, 
+2005,102,Enseñanza secundaria, 
+2005,103,Enseñanza postsecundaria no superior, 
+2005,104,Enseñanza superior,56.608
+2005,105,Enseñanza no definida por nivel,82.037
+2005,111,Restauración y comedores,79.983
+2005,112,Servicios de alojamiento,83.092
+2005,121,Cuidado personal,86.683
+2005,123,Efectos personales n.c.o.p.,62.906
+2005,124,Protección social, 
+2005,125,Seguros,72.638
+2005,126,Servicios financieros n.c.o.p.,74.126
+2005,127,Otros servicios n.c.o.p.,74.884
+2006,00,Índice general,86.637
+2006,011,Alimentos,84.627
+2006,012,Bebidas no alcohólicas,84.056
+2006,021,Bebidas alcohólicas,84.679
+2006,022,Tabaco,50.753
+2006,031,Vestido,100.263
+2006,032,Calzado y sus reparaciones,93.181
+2006,041,Alquiler de vivienda,88.075
+2006,043,Conservación y reparación de la vivienda,86.25
+2006,044,Suministro de agua y otros servicios relacionados con la vivienda,75.257
+2006,045,"Electricidad, gas y otros combustibles",77.35
+2006,051,"Muebles y accesorios, alfombras y otros revestimientos de suelos",87.028
+2006,052,Artículos textiles para el hogar,97.813
+2006,053,Aparatos domésticos,110.774
+2006,054,"Cristalería, vajilla y utensilios para el hogar",83.516
+2006,055,Herramientas y equipos para el hogar y el jardín,84.946
+2006,056,Bienes y servicios para el mantenimiento corriente del hogar,87.012
+2006,061,"Productos, aparatos y equipos médicos",101.946
+2006,062,Servicios ambulatorios,86.126
+2006,063,Servicios hospitalarios,101.649
+2006,071,Adquisición de vehículos,95.094
+2006,072,Utilización de vehículos personales,85.735
+2006,073,Servicios de transporte,71.577
+2006,081,Servicios postales,70.702
+2006,082,Equipos de telefonía y fax, 
+2006,083,Servicios de telefonía y fax, 
+2006,091,"Equipos audiovisuales, fotográficos y de procesamiento de información",267.578
+2006,092,Otros grandes bienes duraderos para ocio y cultura, 
+2006,093,"Otros artículos y equipos para ocio, jardinería y animales domésticos",100.377
+2006,094,"Servicios recreativos, deportivos y culturales",83.224
+2006,095,"Prensa, libros y artículos de papelería",83.458
+2006,096,Paquetes turísticos,85.245
+2006,101,Enseñanza infantil y primaria, 
+2006,102,Enseñanza secundaria, 
+2006,103,Enseñanza postsecundaria no superior, 
+2006,104,Enseñanza superior,59.424
+2006,105,Enseñanza no definida por nivel,84.835
+2006,111,Restauración y comedores,83.591
+2006,112,Servicios de alojamiento,86.111
+2006,121,Cuidado personal,89.355
+2006,123,Efectos personales n.c.o.p.,69.335
+2006,124,Protección social, 
+2006,125,Seguros,75.052
+2006,126,Servicios financieros n.c.o.p.,76.747
+2006,127,Otros servicios n.c.o.p.,76.517
+2007,00,Índice general,89.051
+2007,011,Alimentos,87.78
+2007,012,Bebidas no alcohólicas,86.672
+2007,021,Bebidas alcohólicas,87.104
+2007,022,Tabaco,55.202
+2007,031,Vestido,101.219
+2007,032,Calzado y sus reparaciones,94.45
+2007,041,Alquiler de vivienda,91.922
+2007,043,Conservación y reparación de la vivienda,91.031
+2007,044,Suministro de agua y otros servicios relacionados con la vivienda,78.917
+2007,045,"Electricidad, gas y otros combustibles",78.803
+2007,051,"Muebles y accesorios, alfombras y otros revestimientos de suelos",90.503
+2007,052,Artículos textiles para el hogar,99.867
+2007,053,Aparatos domésticos,110.349
+2007,054,"Cristalería, vajilla y utensilios para el hogar",85.858
+2007,055,Herramientas y equipos para el hogar y el jardín,88.395
+2007,056,Bienes y servicios para el mantenimiento corriente del hogar,89.442
+2007,061,"Productos, aparatos y equipos médicos",96.332
+2007,062,Servicios ambulatorios,89.107
+2007,063,Servicios hospitalarios,105.356
+2007,071,Adquisición de vehículos,96.335
+2007,072,Utilización de vehículos personales,87.666
+2007,073,Servicios de transporte,74.264
+2007,081,Servicios postales,73.246
+2007,082,Equipos de telefonía y fax,375.55
+2007,083,Servicios de telefonía y fax,114.596
+2007,091,"Equipos audiovisuales, fotográficos y de procesamiento de información",235.85
+2007,092,Otros grandes bienes duraderos para ocio y cultura,89.263
+2007,093,"Otros artículos y equipos para ocio, jardinería y animales domésticos",101.586
+2007,094,"Servicios recreativos, deportivos y culturales",85.841
+2007,095,"Prensa, libros y artículos de papelería",85.296
+2007,096,Paquetes turísticos,85.716
+2007,101,Enseñanza infantil y primaria, 
+2007,102,Enseñanza secundaria, 
+2007,103,Enseñanza postsecundaria no superior, 
+2007,104,Enseñanza superior,62.553
+2007,105,Enseñanza no definida por nivel,87.69
+2007,111,Restauración y comedores,87.577
+2007,112,Servicios de alojamiento,90.871
+2007,121,Cuidado personal,92.086
+2007,123,Efectos personales n.c.o.p.,73.51
+2007,124,Protección social, 
+2007,125,Seguros,77.297
+2007,126,Servicios financieros n.c.o.p.,82.754
+2007,127,Otros servicios n.c.o.p.,78.175
+2008,00,Índice general,92.68
+2008,011,Alimentos,92.991
+2008,012,Bebidas no alcohólicas,90.916
+2008,021,Bebidas alcohólicas,91.438
+2008,022,Tabaco,57.153
+2008,031,Vestido,101.671
+2008,032,Calzado y sus reparaciones,95.852
+2008,041,Alquiler de vivienda,95.824
+2008,043,Conservación y reparación de la vivienda,95.644
+2008,044,Suministro de agua y otros servicios relacionados con la vivienda,81.943
+2008,045,"Electricidad, gas y otros combustibles",87.012
+2008,051,"Muebles y accesorios, alfombras y otros revestimientos de suelos",93.89
+2008,052,Artículos textiles para el hogar,102.071
+2008,053,Aparatos domésticos,109.524
+2008,054,"Cristalería, vajilla y utensilios para el hogar",88.759
+2008,055,Herramientas y equipos para el hogar y el jardín,91.035
+2008,056,Bienes y servicios para el mantenimiento corriente del hogar,92.233
+2008,061,"Productos, aparatos y equipos médicos",93.462
+2008,062,Servicios ambulatorios,92.489
+2008,063,Servicios hospitalarios,108.942
+2008,071,Adquisición de vehículos,95.78
+2008,072,Utilización de vehículos personales,97.074
+2008,073,Servicios de transporte,79.306
+2008,081,Servicios postales,75.332
+2008,082,Equipos de telefonía y fax,278.936
+2008,083,Servicios de telefonía y fax,115.302
+2008,091,"Equipos audiovisuales, fotográficos y de procesamiento de información",203.564
+2008,092,Otros grandes bienes duraderos para ocio y cultura,89.816
+2008,093,"Otros artículos y equipos para ocio, jardinería y animales domésticos",103.655
+2008,094,"Servicios recreativos, deportivos y culturales",88.21
+2008,095,"Prensa, libros y artículos de papelería",87.256
+2008,096,Paquetes turísticos,89.536
+2008,101,Enseñanza infantil y primaria, 
+2008,102,Enseñanza secundaria, 
+2008,103,Enseñanza postsecundaria no superior, 
+2008,104,Enseñanza superior,65.776
+2008,105,Enseñanza no definida por nivel,90.735
+2008,111,Restauración y comedores,91.727
+2008,112,Servicios de alojamiento,94.696
+2008,121,Cuidado personal,94.943
+2008,123,Efectos personales n.c.o.p.,78.625
+2008,124,Protección social, 
+2008,125,Seguros,79.649
+2008,126,Servicios financieros n.c.o.p.,86.667
+2008,127,Otros servicios n.c.o.p.,79.904
+2009,00,Índice general,92.414
+2009,011,Alimentos,91.817
+2009,012,Bebidas no alcohólicas,93.205
+2009,021,Bebidas alcohólicas,93.228
+2009,022,Tabaco,63.821
+2009,031,Vestido,99.618
+2009,032,Calzado y sus reparaciones,95.49
+2009,041,Alquiler de vivienda,98.769
+2009,043,Conservación y reparación de la vivienda,97.277
+2009,044,Suministro de agua y otros servicios relacionados con la vivienda,85.536
+2009,045,"Electricidad, gas y otros combustibles",85.431
+2009,051,"Muebles y accesorios, alfombras y otros revestimientos de suelos",94.85
+2009,052,Artículos textiles para el hogar,102.599
+2009,053,Aparatos domésticos,109.714
+2009,054,"Cristalería, vajilla y utensilios para el hogar",91.041
+2009,055,Herramientas y equipos para el hogar y el jardín,92.804
+2009,056,Bienes y servicios para el mantenimiento corriente del hogar,94.362
+2009,061,"Productos, aparatos y equipos médicos",90.234
+2009,062,Servicios ambulatorios,94.646
+2009,063,Servicios hospitalarios,109.93
+2009,071,Adquisición de vehículos,92.056
+2009,072,Utilización de vehículos personales,87.48
+2009,073,Servicios de transporte,83.312
+2009,081,Servicios postales,77.418
+2009,082,Equipos de telefonía y fax,192.611
+2009,083,Servicios de telefonía y fax,115.381
+2009,091,"Equipos audiovisuales, fotográficos y de procesamiento de información",180.474
+2009,092,Otros grandes bienes duraderos para ocio y cultura,93.661
+2009,093,"Otros artículos y equipos para ocio, jardinería y animales domésticos",104.204
+2009,094,"Servicios recreativos, deportivos y culturales",90.585
+2009,095,"Prensa, libros y artículos de papelería",89.885
+2009,096,Paquetes turísticos,89.704
+2009,101,Enseñanza infantil y primaria, 
+2009,102,Enseñanza secundaria, 
+2009,103,Enseñanza postsecundaria no superior, 
+2009,104,Enseñanza superior,69.291
+2009,105,Enseñanza no definida por nivel,93.331
+2009,111,Restauración y comedores,93.701
+2009,112,Servicios de alojamiento,93.344
+2009,121,Cuidado personal,96.011
+2009,123,Efectos personales n.c.o.p.,81.843
+2009,124,Protección social, 
+2009,125,Seguros,82.371
+2009,126,Servicios financieros n.c.o.p.,89.763
+2009,127,Otros servicios n.c.o.p.,81.625
+2010,00,Índice general,94.077
+2010,011,Alimentos,91.097
+2010,012,Bebidas no alcohólicas,91.641
+2010,021,Bebidas alcohólicas,93.427
+2010,022,Tabaco,73.421
+2010,031,Vestido,99.073
+2010,032,Calzado y sus reparaciones,96.023
+2010,041,Alquiler de vivienda,99.867
+2010,043,Conservación y reparación de la vivienda,97.878
+2010,044,Suministro de agua y otros servicios relacionados con la vivienda,87.888
+2010,045,"Electricidad, gas y otros combustibles",90.838
+2010,051,"Muebles y accesorios, alfombras y otros revestimientos de suelos",95.785
+2010,052,Artículos textiles para el hogar,102.84
+2010,053,Aparatos domésticos,109.134
+2010,054,"Cristalería, vajilla y utensilios para el hogar",92.92
+2010,055,Herramientas y equipos para el hogar y el jardín,94.916
+2010,056,Bienes y servicios para el mantenimiento corriente del hogar,94.908
+2010,061,"Productos, aparatos y equipos médicos",87.428
+2010,062,Servicios ambulatorios,95.868
+2010,063,Servicios hospitalarios,109.01
+2010,071,Adquisición de vehículos,91.008
+2010,072,Utilización de vehículos personales,98.542
+2010,073,Servicios de transporte,85.393
+2010,081,Servicios postales,80.878
+2010,082,Equipos de telefonía y fax,155.398
+2010,083,Servicios de telefonía y fax,114.873
+2010,091,"Equipos audiovisuales, fotográficos y de procesamiento de información",168.407
+2010,092,Otros grandes bienes duraderos para ocio y cultura,93.423
+2010,093,"Otros artículos y equipos para ocio, jardinería y animales domésticos",103.89
+2010,094,"Servicios recreativos, deportivos y culturales",91.831
+2010,095,"Prensa, libros y artículos de papelería",91.58
+2010,096,Paquetes turísticos,85.55
+2010,101,Enseñanza infantil y primaria, 
+2010,102,Enseñanza secundaria, 
+2010,103,Enseñanza postsecundaria no superior, 
+2010,104,Enseñanza superior,71.548
+2010,105,Enseñanza no definida por nivel,94.774
+2010,111,Restauración y comedores,94.889
+2010,112,Servicios de alojamiento,93.513
+2010,121,Cuidado personal,96.626
+2010,123,Efectos personales n.c.o.p.,87.872
+2010,124,Protección social, 
+2010,125,Seguros,84.891
+2010,126,Servicios financieros n.c.o.p.,94.311
+2010,127,Otros servicios n.c.o.p.,82.118
+2011,00,Índice general,97.084
+2011,011,Alimentos,92.901
+2011,012,Bebidas no alcohólicas,94.574
+2011,021,Bebidas alcohólicas,94.719
+2011,022,Tabaco,83.166
+2011,031,Vestido,99.227
+2011,032,Calzado y sus reparaciones,96.67
+2011,041,Alquiler de vivienda,100.903
+2011,043,Conservación y reparación de la vivienda,99.059
+2011,044,Suministro de agua y otros servicios relacionados con la vivienda,90.264
+2011,045,"Electricidad, gas y otros combustibles",105.091
+2011,051,"Muebles y accesorios, alfombras y otros revestimientos de suelos",97.568
+2011,052,Artículos textiles para el hogar,104.912
+2011,053,Aparatos domésticos,107.799
+2011,054,"Cristalería, vajilla y utensilios para el hogar",95.46
+2011,055,Herramientas y equipos para el hogar y el jardín,97.616
+2011,056,Bienes y servicios para el mantenimiento corriente del hogar,95.928
+2011,061,"Productos, aparatos y equipos médicos",84.14
+2011,062,Servicios ambulatorios,96.883
+2011,063,Servicios hospitalarios,109.13
+2011,071,Adquisición de vehículos,93.688
+2011,072,Utilización de vehículos personales,110.052
+2011,073,Servicios de transporte,88.321
+2011,081,Servicios postales,83.773
+2011,082,Equipos de telefonía y fax,143.925
+2011,083,Servicios de telefonía y fax,114.036
+2011,091,"Equipos audiovisuales, fotográficos y de procesamiento de información",151.9
+2011,092,Otros grandes bienes duraderos para ocio y cultura,95.205
+2011,093,"Otros artículos y equipos para ocio, jardinería y animales domésticos",103.541
+2011,094,"Servicios recreativos, deportivos y culturales",93.097
+2011,095,"Prensa, libros y artículos de papelería",94.094
+2011,096,Paquetes turísticos,88.359
+2011,101,Enseñanza infantil y primaria, 
+2011,102,Enseñanza secundaria, 
+2011,103,Enseñanza postsecundaria no superior, 
+2011,104,Enseñanza superior,73.964
+2011,105,Enseñanza no definida por nivel,96.458
+2011,111,Restauración y comedores,96.408
+2011,112,Servicios de alojamiento,94.722
+2011,121,Cuidado personal,97.893
+2011,123,Efectos personales n.c.o.p.,95.344
+2011,124,Protección social, 
+2011,125,Seguros,87.967
+2011,126,Servicios financieros n.c.o.p.,98.372
+2011,127,Otros servicios n.c.o.p.,83.172
+2012,00,Índice general,99.458
+2012,011,Alimentos,95.04
+2012,012,Bebidas no alcohólicas,97.136
+2012,021,Bebidas alcohólicas,96.897
+2012,022,Tabaco,89.175
+2012,031,Vestido,99.42
+2012,032,Calzado y sus reparaciones,97.17
+2012,041,Alquiler de vivienda,101.457
+2012,043,Conservación y reparación de la vivienda,99.519
+2012,044,Suministro de agua y otros servicios relacionados con la vivienda,93.26
+2012,045,"Electricidad, gas y otros combustibles",115.37
+2012,051,"Muebles y accesorios, alfombras y otros revestimientos de suelos",98.192
+2012,052,Artículos textiles para el hogar,104.38
+2012,053,Aparatos domésticos,107.234
+2012,054,"Cristalería, vajilla y utensilios para el hogar",96.874
+2012,055,Herramientas y equipos para el hogar y el jardín,98.821
+2012,056,Bienes y servicios para el mantenimiento corriente del hogar,97.532
+2012,061,"Productos, aparatos y equipos médicos",89.665
+2012,062,Servicios ambulatorios,97.507
+2012,063,Servicios hospitalarios,107.364
+2012,071,Adquisición de vehículos,94.77
+2012,072,Utilización de vehículos personales,117.123
+2012,073,Servicios de transporte,93.735
+2012,081,Servicios postales,86.452
+2012,082,Equipos de telefonía y fax,155.999
+2012,083,Servicios de telefonía y fax,109.916
+2012,091,"Equipos audiovisuales, fotográficos y de procesamiento de información",136.651
+2012,092,Otros grandes bienes duraderos para ocio y cultura,98.418
+2012,093,"Otros artículos y equipos para ocio, jardinería y animales domésticos",103.611
+2012,094,"Servicios recreativos, deportivos y culturales",96.67
+2012,095,"Prensa, libros y artículos de papelería",95.271
+2012,096,Paquetes turísticos,93.439
+2012,101,Enseñanza infantil y primaria, 
+2012,102,Enseñanza secundaria, 
+2012,103,Enseñanza postsecundaria no superior, 
+2012,104,Enseñanza superior,81.166
+2012,105,Enseñanza no definida por nivel,97.812
+2012,111,Restauración y comedores,97.303
+2012,112,Servicios de alojamiento,94.857
+2012,121,Cuidado personal,98.832
+2012,123,Efectos personales n.c.o.p.,101.561
+2012,124,Protección social, 
+2012,125,Seguros,90.053
+2012,126,Servicios financieros n.c.o.p.,99.984
+2012,127,Otros servicios n.c.o.p.,88.295
+2013,00,Índice general,100.859
+2013,011,Alimentos,97.783
+2013,012,Bebidas no alcohólicas,98.313
+2013,021,Bebidas alcohólicas,99.796
+2013,022,Tabaco,95.65
+2013,031,Vestido,99.332
+2013,032,Calzado y sus reparaciones,97.611
+2013,041,Alquiler de vivienda,101.269
+2013,043,Conservación y reparación de la vivienda,100.197
+2013,044,Suministro de agua y otros servicios relacionados con la vivienda,96.951
+2013,045,"Electricidad, gas y otros combustibles",114.94
+2013,051,"Muebles y accesorios, alfombras y otros revestimientos de suelos",99.205
+2013,052,Artículos textiles para el hogar,104.006
+2013,053,Aparatos domésticos,107.081
+2013,054,"Cristalería, vajilla y utensilios para el hogar",98.825
+2013,055,Herramientas y equipos para el hogar y el jardín,99.995
+2013,056,Bienes y servicios para el mantenimiento corriente del hogar,98.887
+2013,061,"Productos, aparatos y equipos médicos",101.247
+2013,062,Servicios ambulatorios,98.26
+2013,063,Servicios hospitalarios,105.48
+2013,071,Adquisición de vehículos,92.839
+2013,072,Utilización de vehículos personales,118.077
+2013,073,Servicios de transporte,98.53
+2013,081,Servicios postales,89.196
+2013,082,Equipos de telefonía y fax,147.974
+2013,083,Servicios de telefonía y fax,105.232
+2013,091,"Equipos audiovisuales, fotográficos y de procesamiento de información",124.664
+2013,092,Otros grandes bienes duraderos para ocio y cultura,102.602
+2013,093,"Otros artículos y equipos para ocio, jardinería y animales domésticos",104.217
+2013,094,"Servicios recreativos, deportivos y culturales",100.76
+2013,095,"Prensa, libros y artículos de papelería",96.791
+2013,096,Paquetes turísticos,96.542
+2013,101,Enseñanza infantil y primaria, 
+2013,102,Enseñanza secundaria, 
+2013,103,Enseñanza postsecundaria no superior, 
+2013,104,Enseñanza superior,96.021
+2013,105,Enseñanza no definida por nivel,98.423
+2013,111,Restauración y comedores,97.856
+2013,112,Servicios de alojamiento,94.287
+2013,121,Cuidado personal,100.412
+2013,123,Efectos personales n.c.o.p.,102.092
+2013,124,Protección social, 
+2013,125,Seguros,91.733
+2013,126,Servicios financieros n.c.o.p.,100
+2013,127,Otros servicios n.c.o.p.,95.71
+2014,00,Índice general,100.707
+2014,011,Alimentos,97.443
+2014,012,Bebidas no alcohólicas,97.96
+2014,021,Bebidas alcohólicas,99.249
+2014,022,Tabaco,97.757
+2014,031,Vestido,99.286
+2014,032,Calzado y sus reparaciones,98.256
+2014,041,Alquiler de vivienda,100.573
+2014,043,Conservación y reparación de la vivienda,99.642
+2014,044,Suministro de agua y otros servicios relacionados con la vivienda,98.932
+2014,045,"Electricidad, gas y otros combustibles",117.659
+2014,051,"Muebles y accesorios, alfombras y otros revestimientos de suelos",98.894
+2014,052,Artículos textiles para el hogar,101.923
+2014,053,Aparatos domésticos,103.758
+2014,054,"Cristalería, vajilla y utensilios para el hogar",98.732
+2014,055,Herramientas y equipos para el hogar y el jardín,99.948
+2014,056,Bienes y servicios para el mantenimiento corriente del hogar,99.24
+2014,061,"Productos, aparatos y equipos médicos",101.317
+2014,062,Servicios ambulatorios,98.626
+2014,063,Servicios hospitalarios,103.204
+2014,071,Adquisición de vehículos,93.611
+2014,072,Utilización de vehículos personales,115.389
+2014,073,Servicios de transporte,100.888
+2014,081,Servicios postales,89.472
+2014,082,Equipos de telefonía y fax,123.397
+2014,083,Servicios de telefonía y fax,98.951
+2014,091,"Equipos audiovisuales, fotográficos y de procesamiento de información",114.144
+2014,092,Otros grandes bienes duraderos para ocio y cultura,101.199
+2014,093,"Otros artículos y equipos para ocio, jardinería y animales domésticos",102.58
+2014,094,"Servicios recreativos, deportivos y culturales",99.918
+2014,095,"Prensa, libros y artículos de papelería",97.528
+2014,096,Paquetes turísticos,97.88
+2014,101,Enseñanza infantil y primaria, 
+2014,102,Enseñanza secundaria, 
+2014,103,Enseñanza postsecundaria no superior, 
+2014,104,Enseñanza superior,98.859
+2014,105,Enseñanza no definida por nivel,98.971
+2014,111,Restauración y comedores,98.277
+2014,112,Servicios de alojamiento,95.412
+2014,121,Cuidado personal,100.146
+2014,123,Efectos personales n.c.o.p.,98.557
+2014,124,Protección social, 
+2014,125,Seguros,94.227
+2014,126,Servicios financieros n.c.o.p.,100
+2014,127,Otros servicios n.c.o.p.,96.332
+2015,00,Índice general,100.203
+2015,011,Alimentos,98.608
+2015,012,Bebidas no alcohólicas,98.789
+2015,021,Bebidas alcohólicas,99.307
+2015,022,Tabaco,99.591
+2015,031,Vestido,99.465
+2015,032,Calzado y sus reparaciones,99.078
+2015,041,Alquiler de vivienda,100.088
+2015,043,Conservación y reparación de la vivienda,99.556
+2015,044,Suministro de agua y otros servicios relacionados con la vivienda,99.511
+2015,045,"Electricidad, gas y otros combustibles",111.711
+2015,051,"Muebles y accesorios, alfombras y otros revestimientos de suelos",99.379
+2015,052,Artículos textiles para el hogar,100.857
+2015,053,Aparatos domésticos,101.247
+2015,054,"Cristalería, vajilla y utensilios para el hogar",99.148
+2015,055,Herramientas y equipos para el hogar y el jardín,99.836
+2015,056,Bienes y servicios para el mantenimiento corriente del hogar,99.468
+2015,061,"Productos, aparatos y equipos médicos",101.128
+2015,062,Servicios ambulatorios,99.183
+2015,063,Servicios hospitalarios,102.134
+2015,071,Adquisición de vehículos,96.551
+2015,072,Utilización de vehículos personales,105.32
+2015,073,Servicios de transporte,101.015
+2015,081,Servicios postales,98.587
+2015,082,Equipos de telefonía y fax,108.728
+2015,083,Servicios de telefonía y fax,97.254
+2015,091,"Equipos audiovisuales, fotográficos y de procesamiento de información",106.365
+2015,092,Otros grandes bienes duraderos para ocio y cultura,100.429
+2015,093,"Otros artículos y equipos para ocio, jardinería y animales domésticos",101.329
+2015,094,"Servicios recreativos, deportivos y culturales",99.331
+2015,095,"Prensa, libros y artículos de papelería",98.825
+2015,096,Paquetes turísticos,101.289
+2015,101,Enseñanza infantil y primaria, 
+2015,102,Enseñanza secundaria, 
+2015,103,Enseñanza postsecundaria no superior, 
+2015,104,Enseñanza superior,99.898
+2015,105,Enseñanza no definida por nivel,99.523
+2015,111,Restauración y comedores,99.008
+2015,112,Servicios de alojamiento,97.497
+2015,121,Cuidado personal,100.035
+2015,123,Efectos personales n.c.o.p.,99.151
+2015,124,Protección social, 
+2015,125,Seguros,96.921
+2015,126,Servicios financieros n.c.o.p.,100
+2015,127,Otros servicios n.c.o.p.,99.597
+2016,00,Índice general,100
+2016,011,Alimentos,100
+2016,012,Bebidas no alcohólicas,100
+2016,021,Bebidas alcohólicas,100
+2016,022,Tabaco,100
+2016,031,Vestido,100
+2016,032,Calzado y sus reparaciones,100
+2016,041,Alquiler de vivienda,100
+2016,043,Conservación y reparación de la vivienda,100
+2016,044,Suministro de agua y otros servicios relacionados con la vivienda,100
+2016,045,"Electricidad, gas y otros combustibles",100
+2016,051,"Muebles y accesorios, alfombras y otros revestimientos de suelos",100
+2016,052,Artículos textiles para el hogar,100
+2016,053,Aparatos domésticos,100
+2016,054,"Cristalería, vajilla y utensilios para el hogar",100
+2016,055,Herramientas y equipos para el hogar y el jardín,100
+2016,056,Bienes y servicios para el mantenimiento corriente del hogar,100
+2016,061,"Productos, aparatos y equipos médicos",100
+2016,062,Servicios ambulatorios,100
+2016,063,Servicios hospitalarios,100
+2016,071,Adquisición de vehículos,100
+2016,072,Utilización de vehículos personales,100
+2016,073,Servicios de transporte,100
+2016,081,Servicios postales,100
+2016,082,Equipos de telefonía y fax,100
+2016,083,Servicios de telefonía y fax,100
+2016,091,"Equipos audiovisuales, fotográficos y de procesamiento de información",100
+2016,092,Otros grandes bienes duraderos para ocio y cultura,100
+2016,093,"Otros artículos y equipos para ocio, jardinería y animales domésticos",100
+2016,094,"Servicios recreativos, deportivos y culturales",100
+2016,095,"Prensa, libros y artículos de papelería",100
+2016,096,Paquetes turísticos,100
+2016,101,Enseñanza infantil y primaria, 
+2016,102,Enseñanza secundaria, 
+2016,103,Enseñanza postsecundaria no superior, 
+2016,104,Enseñanza superior,100
+2016,105,Enseñanza no definida por nivel,100
+2016,111,Restauración y comedores,100
+2016,112,Servicios de alojamiento,100
+2016,121,Cuidado personal,100
+2016,123,Efectos personales n.c.o.p.,100
+2016,124,Protección social, 
+2016,125,Seguros,100
+2016,126,Servicios financieros n.c.o.p.,100
+2016,127,Otros servicios n.c.o.p.,100
