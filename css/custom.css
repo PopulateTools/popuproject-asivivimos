@@ -1,6 +1,20 @@
-/* text colors */
+/* background colors */
 
-h2,h3,h4,h5 {
+body {
+  background-color: #f0f0f0;
+}
+
+/* text */
+
+h1 {
+  font-size: 3em;
+}
+
+h1,h2 {
+  font-weight: 300;
+}
+
+h1,h2,h3,h4,h5 {
   color: #141414 ;
 }
 
@@ -36,5 +50,13 @@ h2,h3,h4,h5 {
 
 .l-box {
   padding: 3em;
-  padding-bottom: 0.5em;
+}
+
+/* boxes */
+
+.box {
+  background: #fff;
+  border-radius: 6px;
+  box-shadow: 0 2px 0 0 #e5e5e5;
+  margin : 3em;
 }
